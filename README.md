@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/aditi-maurya-81825a194/" target="blank">
     <img
       align="center"
-      src="https://toppng.com/uploads/preview/linkedin-logo-black-png-linkedin-icon-black-and-white-11562906557v2906x3pr2.png"
+      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png"
       alt="LinkedIn.png"
       height="40"
       width="40"
@@ -17,7 +17,7 @@
  <a href="https://www.instagram.com/aditi_23__/ target="blank">
     <img
       align="center"
-      src="https://img.etimg.com/thumb/msid-70408529,width-650,imgsize-166495,,resizemode-4,quality-100/instagram.jpg"
+      src="https://mpng.subpng.com/20180629/vue/kisspng-www-mevrouwpak-nl-advertising-graphic-design-insta-instagramm-5b3692f028e740.4061558515303032161676.jpg"
       alt="Instagram.png"
       height="40"
       width="40"
