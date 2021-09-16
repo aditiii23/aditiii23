@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditi Maurya</h1>
 <h3 align="center">
-  A Passionate Web Developer and Competitive Coder @IIIT Gwalior.
+  A Competitive Coder and a passionate Web Developer @IIIT Gwalior.
 </h3>
 
 📫 Reach me out at **shally.aditi23@gmail.com.**
