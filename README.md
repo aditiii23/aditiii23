@@ -3,7 +3,7 @@
   A Competitive Coder and a passionate Web Developer @IIIT Gwalior.
 </h3>
 
-📫 Reach me out at **aditimaurya2310@gmail.com.**
+📫 Reach me out at **aditi23.maurya@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
