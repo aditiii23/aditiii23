@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditi Maurya</h1>
 <h3 align="center">
-  A Competitive Coder and a passionate Web Developer @IIIT Gwalior.
+  SDE @ Wesence
 </h3>
 
 📫 Reach me out at **aditi23.maurya@gmail.com.**
@@ -18,6 +18,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://nestjs.com/" target="_blank"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="nest" width="40" height="40"/> </a>
+<!-- <a href="https://orm.drizzle.team/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drizzle/drizzle-original.svg" alt="drizzle" width="40" height="40"/> </a>  -->
+  <a href="https://www.prisma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://graphql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphQL" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
